@@ -1,0 +1,5 @@
+env:
+  jest: true
+extends: eslint:recommended
+rules:
+  prefer-arrow-callback: 1
